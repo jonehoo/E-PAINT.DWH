@@ -22,8 +22,9 @@
 </template>
 
 <script>
-import { login } from '@/api/user'
+// import { login } from '@/api/user'
 export default {
+  name :'login-index',
   data() {
     return {
       userName: '',
@@ -33,23 +34,24 @@ export default {
   },
   methods: {
     sigin() {
-      login({ username: this.userName, password: this.passWord }).then(async res => {
-        // console.log(res.data)
-        if (res.data.code == 200) {
-          this.$message({
-            message: res.data.msg,
-            type: 'success'
-          });
-          localStorage.setItem('accessToken', res.data.token)
-          localStorage.setItem('accessTime', Date.parse(new Date()))
-          this.logocss = "login animate__animated animate__bounceOut"
-          this.$router.push('/home');
+      this.$router.push('/DWH');
+      // login({ username: this.userName, password: this.passWord }).then(async res => {
+      //   // console.log(res.data)
+      //   if (res.data.code == 200) {
+      //     this.$message({
+      //       message: res.data.msg,
+      //       type: 'success'
+      //     });
+      //     localStorage.setItem('accessToken', res.data.token)
+      //     localStorage.setItem('accessTime', Date.parse(new Date()))
+      //     this.logocss = "login animate__animated animate__bounceOut"
+      //     this.$router.push('/home');
           
-        } else {
-          this.$message.error(res.data.msg);
-        }
+      //   } else {
+      //     this.$message.error(res.data.msg);
+      //   }
 
-      })
+      // })
     },
   },
   mounted() {

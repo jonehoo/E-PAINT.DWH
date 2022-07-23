@@ -19,6 +19,12 @@ export const constantRoutes = [{
         component: () =>
             import ('@/views/AboutView.vue'),
     },
+    {
+        path: '/DWH',
+        show: false,
+        component: () =>
+            import ('@/views/DWH'),
+    },
 
     {
         path: '/home',
