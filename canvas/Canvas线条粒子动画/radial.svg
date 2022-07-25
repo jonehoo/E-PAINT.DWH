@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1676px" height="1012px" viewBox="0 0 1676 1012" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-10.2%" y="-20.0%" width="120.4%" height="140.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="82.2691552%" gradientTransform="translate(0.500000,0.500000),scale(0.607761,1.000000),scale(1.000000,0.560520),translate(-0.500000,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#63FFCF" stop-opacity="0.468167411" offset="0%"></stop>
+            <stop stop-color="#5FEFC8" stop-opacity="0.306180493" offset="43.4703533%"></stop>
+            <stop stop-color="#56D2BA" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="107.371795%" gradientTransform="translate(0.500000,0.500000),scale(0.465672,1.000000),scale(1.000000,0.453416),translate(-0.500000,-0.500000)" id="radialGradient-3">
+            <stop stop-color="#5FFFC9" stop-opacity="0.296648551" offset="0%"></stop>
+            <stop stop-color="#7FFFF6" stop-opacity="0.255601283" offset="16.8232818%"></stop>
+            <stop stop-color="#57D3BC" stop-opacity="0" offset="86.2952621%"></stop>
+            <stop stop-color="#56D2BA" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50.912211%" cy="50%" fx="50.912211%" fy="50%" r="76.2654762%" gradientTransform="translate(0.509122,0.500000),scale(0.643644,1.000000),scale(1.000000,0.453416),translate(-0.509122,-0.500000)" id="radialGradient-4">
+            <stop stop-color="#5FFFEA" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#7FEAFF" stop-opacity="0.255601283" offset="43.7590512%"></stop>
+            <stop stop-color="#56D2BA" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50.912211%" cy="50%" fx="50.912211%" fy="50%" r="76.2554557%" gradientTransform="translate(0.509122,0.500000),scale(0.643728,1.000000),scale(1.000000,0.453416),translate(-0.509122,-0.500000)" id="radialGradient-5">
+            <stop stop-color="#5FFFEA" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#7FEAFF" stop-opacity="0.255601283" offset="43.7590512%"></stop>
+            <stop stop-color="#56D2BA" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" fill="#3F88F4" opacity="0.0508370536" filter="url(#filter-1)" cx="828" cy="482.5" rx="734" ry="374.5"></ellipse>
+        <rect id="Rectangle-path" fill="url(#radialGradient-2)" fill-rule="nonzero" opacity="0.400000006" x="0" y="0" width="1675" height="1018"></rect>
+        <rect id="Rectangle-path" fill="url(#radialGradient-3)" fill-rule="nonzero" x="0" y="119" width="1675" height="780"></rect>
+        <rect id="Rectangle-path" fill="url(#radialGradient-4)" fill-rule="nonzero" opacity="0.400000006" x="0" y="185" width="999" height="643"></rect>
+        <rect id="Rectangle-path" fill="url(#radialGradient-5)" fill-rule="nonzero" opacity="0.400000006" x="264" y="137" width="1148" height="739"></rect>
+        <rect id="Rectangle-path" fill="url(#radialGradient-4)" fill-rule="nonzero" opacity="0.400000006" x="676" y="185" width="999" height="643"></rect>
+        <rect id="Rectangle" x="0" y="0" width="1676" height="1012"></rect>
+    </g>
+</svg>
