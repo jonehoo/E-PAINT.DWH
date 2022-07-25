@@ -106,6 +106,7 @@ export default {
 };
 </script>
 <style lang='scss' scoped>
+
 .box {
     height: 100vh;
     width: 100vw;
